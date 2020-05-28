@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
 
-  <string name="pref_camera_touch_focus_delay_title">Extended touch focus timeout/ Erweiterte Berührungsfokus-Zeitüberschreitung</string>
 
   <string name="abc_action_bar_home_description">Zur Startseite</string>
   <string name="abc_action_bar_up_description">Nach oben</string>

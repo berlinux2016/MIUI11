@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="unknown_medical_conditions">Unbekannt</string>
-  <string name="unknown_medications">Unbekannt</string>
   <string name="unknown_name">Unbekannt</string>
   <string name="unknown_organ_donor">Unbekannt</string>
   <string name="usb_audio_disable_routing">USB Audio-Routing deaktivieren</string>

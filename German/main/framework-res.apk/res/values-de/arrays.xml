@@ -1,15 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string-array name="app_ops_labels">
-    <item>Versucht WLAN zu aktivieren</item>
-    <item>Versucht Bluetooth zu aktivieren</item>
-  </string-array>
-  <string-array name="emailAddressTypes">
-    <item>Privat</item>
-    <item>Geschäftlich</item>
-    <item>Andere</item>
-    <item>Eigene</item>
-  </string-array>
   <string-array name="fingerprint_acquired_vendor">
     <item>Erneut versuchen</item>
     <item></item>

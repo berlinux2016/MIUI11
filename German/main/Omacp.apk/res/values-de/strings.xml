@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="agps_app_name">A-GPS</string>
-  <string name="apn_apn_label">"APN: "</string>
   <string name="apn_app_name">Zugangspunkt</string>
   <string name="apn_auth_type_label">"Authentifizierungsart: "</string>
   <string name="apn_mms_port_label">"MMS-Port: "</string>

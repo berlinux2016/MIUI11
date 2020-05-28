@@ -1,13 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string-array name="apk_clean_menu">
-    <item>Bereinigen</item>
-    <item>Installieren</item>
-    <item>In Ordner anzeigen</item>
-  </string-array>
-  <string-array name="app_clean_menu">
-    <item>Entfernen</item>
-  </string-array>
   <string-array name="auto_alert_apps_time">
     <item>Alle 7 Tage</item>
     <item>Alle 15 Tage</item>

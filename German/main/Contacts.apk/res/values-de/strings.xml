@@ -1,8 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="accessibility_calllog_detail">Anruflistendetails</string>
-  <string name="accessibility_contact_detail">Kontaktdetails</string>
-  <string name="account_container_title">Von folgendem Konto</string>
   <string name="account_default">Telefon</string>
   <string name="account_dual_sim">SIM-Karte %s</string>
   <string name="account_phone">Telefon nicht synchr.</string>

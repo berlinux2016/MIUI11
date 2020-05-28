@@ -1,7 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="Parse_error_dlg_text">Beim Parsen des Pakets ist ein Problem aufgetreten</string>
-  <string name="adb_install_no_network">Mit dem Netzwerk verbinden und erneut versuchen</string>
   <string name="adb_install_open">Erlauben…</string>
   <string name="adb_install_open_error">Erlauben fehlgeschlagen, Netzwerkverbindung prüfen</string>
   <string name="additional_permissions">Zusätzliche Berechtigungen</string>
