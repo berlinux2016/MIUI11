@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_extreme_mode">Extrem-Stromsparmodus</string>
   <string name="about_hide_mode">Über Stromsparmodus-App</string>
   <string name="active_classify">Nach Aktivitätsstatus sortieren</string>
   <string name="adaptive_battery_summary">Begrenzen Sie den Akkuverbrauch für Apps, die Sie nicht oft verwenden.</string>

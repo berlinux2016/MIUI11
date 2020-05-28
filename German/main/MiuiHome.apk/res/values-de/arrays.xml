@@ -1,3 +1,82 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string-array name="cell_icon_size_entries">
+    <item>Sehr Klein</item>
+    <item>Klein</item>
+    <item>Mittel</item>
+    <item>Groß</item>
+    <item>Sehr groß</item>
+  </string-array>
+  <string-array name="editing_mode_entries">
+    <item>Hintergrund</item>
+    <item>Widgets</item>
+    <item>Einstellungen</item>
+  </string-array>
+  <string-array name="folder_toggle_entries"> 
+    <item>3 Spalten</item> 
+    <item>4 Spalten</item> 
+  </string-array>  
+  <string-array name="gadget_weather_image">
+    <item>Klar</item>
+    <item>Bewölkt</item>
+    <item>Bedeckt</item>
+    <item>Nebel</item>
+    <item>Schweres Unwetter</item>
+    <item>Unwetter</item>
+    <item>Sehr starker Regen</item>
+    <item>Gewitter</item>
+    <item>Regenschauer</item>
+    <item>Starker Regen</item>
+    <item>Regen</item>
+    <item>Nieselregen</item>
+    <item>Schneeregen</item>
+    <item>Schneesturm</item>
+    <item>Schneeschauer</item>
+    <item>Starker Schneefall</item>
+    <item>Schneefall</item>
+    <item>Leichter Schneefall</item>
+    <item>Starker Sandsturm</item>
+    <item>Sandsturm</item>
+    <item>Leichter Sandsturm</item>
+    <item>Sandsturm</item>
+    <item>Hagel</item>
+    <item>Feinstaub</item>
+    <item>Dunst</item>
+  </string-array>
+  <string-array name="gadget_weather_theme_type_entries">
+    <item>Standard</item>
+    <item>Classic</item>
+  </string-array>
+  <string-array name="quality_business_devices">
+    <item>Lithium</item>
+  </string-array>
+  <string-array name="global_search_mode_entries">
+    <item>Nichts</item>
+    <item>Nach oben wischen</item>
+    <item>Suchleiste</item>
+  </string-array>
+  <string-array name="global_search_provider_entries">
+    <item>Standard</item>
+    <item>Google</item>
+  </string-array>
+  <string-array name="minus_screen_entries">
+    <item>Nichts anzeigen</item>
+    <item>Infoassistent</item>
+    <item>Google</item>
+  </string-array>
+  <string-array name="transformation_entries">
+    <item>Schieben</item>
+    <item>Überblendung</item>
+    <item>Umfallen</item>
+    <item>Seite</item>
+    <item>Kaskade</item>
+    <item>Drehen</item>
+    <item>Würfel</item>
+  </string-array>
+  <string-array name="wallpaper_scroll_entries">
+    <item>Theme (Standard)</item>
+    <item>Zentriert</item>
+    <item>Links</item>
+    <item>Rechts</item>
+  </string-array>
 </resources>

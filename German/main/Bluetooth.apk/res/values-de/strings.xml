@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="ErrorTooManyRequests">Zurzeit werden zu viele Anfragen verarbeitet. Versuchen Sie es später erneut.</string>
+  <string name="ack_record">Eintrag bestätigen</string>
+  <string name="airplane_can_not_share">Im Flugmodus kann nicht über Bluetooth geteilt werden</string>
+  <string name="airplane_error_msg">Sie können Bluetooth im Flugmodus nicht verwenden</string>
   <string name="airplane_error_title">Flugmodus</string>
   <string name="auth_notif_message">Sitzungsschlüssel eingeben für %1$s</string>
   <string name="auth_notif_ticker">OBEX-Authentifizierungsanfrage</string>

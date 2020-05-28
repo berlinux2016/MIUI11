@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="AVL">AVL</string>
+  <string name="Avast">Avast</string>
+  <string name="DesAVL">AVL</string>
   <string name="DesAvast">Avast</string>
   <string name="DesMi">Mi</string>
   <string name="DesTencent">Tencent</string>

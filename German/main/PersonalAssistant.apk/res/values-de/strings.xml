@@ -2,6 +2,8 @@
 <resources>
 
 
+  <string name="access_deselect">%s abgewählt</string>
+  <string name="access_deselected">%s abgewählt</string>
   <string name="access_selected">%s ausgewählt</string>
   <string name="app_debug_settings">App-Debug-Einstellungen</string>
   <string name="app_debug_settings_copied_to_clipboard">In Zwischenablage kopiert</string>

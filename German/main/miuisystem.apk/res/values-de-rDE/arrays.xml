@@ -1,3 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string-array name="cta_permission_names">
+    <item>Auf Netzwerk zugreifen</item>
+    <item>SMS lesen</item>
+    <item>SMS ändern</item>
+    <item>SMS erhalten</item>
+    <item>SMS senden</item>
+    <item>Anruf tätigen</item>
+    <item>Kontakte lesen</item>
+    <item>Kontakte ändern</item>
+    <item>Anrufliste lesen</item>
+    <item>Anrufliste ändern</item>
+    <item>Auf Kamera zugreifen</item>
+    <item>Auf Standort zugreifen</item>
+  </string-array>
 </resources>

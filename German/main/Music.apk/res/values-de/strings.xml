@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="December">Dezember</string>
   <string name="February">Februar</string>
   <string name="January">Januar</string>
   <string name="July">Juli</string>

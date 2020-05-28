@@ -1,5 +1,68 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string-array name="search_category_rbds_entries">
+    <item>Alle Sender</item>
+    <item>Hits</item>
+    <item>Klassik</item>
+    <item>Klassischer Rock</item>
+    <item>College</item>
+    <item>Country</item>
+    <item>Notfall</item>
+    <item>Notfalltest</item>
+    <item>Fremdsprachig</item>
+    <item>Information</item>
+    <item>Jazz</item>
+    <item>News</item>
+    <item>Nostalgie</item>
+    <item>Oldies</item>
+    <item>Personalisiert</item>
+    <item>Öffentlich</item>
+    <item>Religiöse Musik</item>
+    <item>Religiöser Talk</item>
+    <item>Rhythm and Blues</item>
+    <item>Rock</item>
+    <item>Soft</item>
+    <item>Soft Rock</item>
+    <item>Soft Rhythm and Blues</item>
+    <item>Sport</item>
+    <item>Talk</item>
+    <item>Top 40</item>
+    <item>Wetter</item>
+  </string-array>
+  <string-array name="search_category_rds_entries">
+    <item>Alle Sender</item>
+    <item>Kultur</item>
+    <item>Zeitgeschehen</item>
+    <item>Kinderprogramme</item>
+    <item>Country Music</item>
+    <item>Dokumentation</item>
+    <item>Drama</item>
+    <item>Easy Listening</item>
+    <item>Bildung</item>
+    <item>Notfall</item>
+    <item>Notfalltest</item>
+    <item>Finanzen</item>
+    <item>Volksmusik</item>
+    <item>Information</item>
+    <item>Jazz</item>
+    <item>Leichte Klassik</item>
+    <item>Freizeit</item>
+    <item>News</item>
+    <item>Traditionelle Volksmusik</item>
+    <item>Andere Musik</item>
+    <item>Oldies</item>
+    <item>Hörerradio</item>
+    <item>Pop</item>
+    <item>Religion</item>
+    <item>Rock</item>
+    <item>Wissenschaft</item>
+    <item>Ernste Klassik</item>
+    <item>Soziales</item>
+    <item>Sport</item>
+    <item>Reisen</item>
+    <item>Verschiedenes</item>
+    <item>Wetter</item>
+  </string-array>
   <string-array name="presetlist_edit_category">
     <item>Umbenennen</item>
     <item>Automatisch wählen</item>

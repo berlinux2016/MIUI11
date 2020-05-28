@@ -1,3 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string-array name="otherLabels">
+    <item>Organisation</item>
+    <item>Hinweis</item>
+  </string-array>
 </resources>

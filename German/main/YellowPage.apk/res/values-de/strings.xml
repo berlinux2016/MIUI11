@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="about_fraud_num_online_identification">Über diese Funktion</string>
   <string name="about_phone_event">Über Serviceinfo</string>
   <string name="about_smart_antispam_summary">Über diese Funktion</string>
   <string name="about_telephone_fraud">Achten Sie auf Betrug</string>

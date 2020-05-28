@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="edit_frequent_phrases">Häufige Sätze bearbeiten</string>
+  <string name="menu_add_frequent_phrases">Hinzufügen</string>
+  <string name="menu_edit">Bearbeiten</string>
   <string name="menu_delete">Löschen</string>
   <string name="frequent_phrases_des">Häufige Sätze mit nur wenig Fingertippen eingeben, während Sie Text bearbeiten</string>
   <string name="add_frequent_phrases">Häufige Sätze hinzufügen</string>

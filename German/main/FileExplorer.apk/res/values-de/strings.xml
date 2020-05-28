@@ -1,5 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="a_week_share_rank">Wöchentliche Rangliste</string>
+  <string name="action_mode_deselect_all">Keine</string>
+  <string name="action_mode_select_all">Alle</string>
   <string name="activity_parse_video_title">Videolink einfügen</string>
   <string name="ad_downloading">Einen Moment…</string>
   <string name="ad_txt">Werbung</string>

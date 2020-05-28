@@ -1,5 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string-array name="arr_prompt_label">
+    <item>Angemessen</item>
+    <item>Lange</item>
+    <item>Zu lange</item>
+  </string-array>
+  <string-array name="arr_sedentary_reminder">
+    <item>Zeit, sich zu bewegen!</item>
+    <item>Mehr erfahren</item>
+    <item>Etwas Wasser trinken und spazieren gehen</item>
+    <item>Mehr erfahren</item>
+    <item>Treppensteigen</item>
+    <item>Mehr erfahren</item>
+    <item>Nicht zu lange sitzen</item>
+    <item>Mehr erfahren</item>
+  </string-array>
+  <string-array name="arr_time_label">
+    <item>1 Stunde</item>
+    <item>2 Stunden</item>
+  </string-array>
   <string-array name="pager_titles">
     <item>Tag</item>
     <item>Woche</item>

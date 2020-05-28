@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="add_print_service_label">Druckdienst hinzufügen</string>
   <string name="all_printers">Alle Drucker…</string>
   <string name="all_printers_label">Alle Drucker</string>
   <string name="all_services_title">Alle Dienste</string>
