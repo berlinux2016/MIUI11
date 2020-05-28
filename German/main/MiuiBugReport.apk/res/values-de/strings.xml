@@ -7,15 +7,4 @@
   <string name="passport_license_host_unreachable">Die Verbindung zum Netzwerk ist nicht möglich. Sie können diese Seite unter %s ansehen.</string>
   <string name="passport_user_agreement_p2">" und "</string>
   <string name="passport_user_agreement_p3">"Datenschutzerklärung "</string>
-  <string name="update_dialog_title">Ein Update ist verfügbar</string>
-  <string name="upload_log_failed">Protokolle senden nicht möglich</string>
-  <string name="warning_field_empty">%1$s eingeben</string>
-  <string name="warning_field_invalid">Gültige/s/n %1$s wählen</string>
-  <string name="xiaomi_update_sdk_connect_download_manager_fail">Verbindung mit Download Manager fehlgeschlagen, bitte den Status des Download-Managers in der App-Verwaltung prüfen.</string>
-  <string name="xiaomi_update_sdk_dialog_message">"Vorgestellte Version %1$s
-Größe: %2$s"</string>
-  <string name="xiaomi_update_sdk_dialog_message_diff">"Vorgestellte Version %1$s
-Delta-Update-Größe: %2$s"</string>
-  <string name="xiaomi_update_sdk_dialog_title">%1$s aktualisieren!</string>
-  <string name="xiaomi_update_sdk_external_storage_unavailable">Speicherplatz nicht verfügbar, bitte SD-Karte prüfen.</string>
 </resources>
