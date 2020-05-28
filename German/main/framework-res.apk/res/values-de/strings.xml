@@ -9,6 +9,10 @@
   <string name="dialog_alert_title">Achtung</string>
   <string name="ext_media_badremoval_notification_message">Vor dem Entfernen Medien auswerfen, um Datenverlust zu vermeiden</string>
   <string name="face_error_no_space">Neue Gesichtsdaten wurden nicht gespeichert. Zuerst einen alten Datensatz löschen.</string>
+  <string name="global_action_battery_saver_off_status">Stromsparmodus ist AN</string>
+  <string name="global_action_battery_saver_on_status">Stromsparmodus ist AUS</string>
+  <string name="global_action_bug_report">Fehlerbericht</string>
+  <string name="global_action_emergency">Notfall</string>
   <string name="global_action_lock">Bildschirmsperre</string>
   <string name="global_action_lockdown">Jetzt sperren</string>
   <string name="global_action_logout">Sitzung beenden</string>

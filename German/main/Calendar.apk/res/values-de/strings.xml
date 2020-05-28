@@ -13,6 +13,16 @@
   <string name="preferences_default_allday_reminder_title">Erinnerungszeit (einmal täglich) um</string>
   <string name="preferences_default_reminder_dialog">Erinnerungszeit</string>
   <string name="preferences_default_reminder_title">Erinnerungszeit</string>
+  <string name="repeat_alarm_open_title">Dieser Termin wiederholt sich. Alarmerinnerung einstellen?</string>
+  <string name="repeat_custom_activity_label">Benutzerdefiniert</string>
+  <string name="repeat_custom_prompt">jede/n/s %1$s | %2$s</string>
+  <string name="repeat_custom_prompt_daily">jeden %1$s</string>
+  <string name="repeat_custom_prompt_sentence">Termin wiederholt sich %1$s</string>
+  <string name="repeat_custom_string_prefix">Eigene</string>
+  <string name="repeat_end_label">Wiederholung nach</string>
+  <string name="repeat_end_times_unit">-mal beenden</string>
+  <string name="repeat_interval_dialog_title">jeden %1$s</string>
+  <string name="repeat_interval_frequency_day_single">Tag</string>
   <string name="repeat_interval_frequency_month_single">Monat</string>
   <string name="repeat_interval_frequency_week_single">Woche</string>
   <string name="repeat_interval_frequency_year_single">Jahr</string>
